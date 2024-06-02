@@ -1,0 +1,6 @@
+.bgImg{
+    background-image: linear-gradient(to right, rgba(255, 255, 0, 0.178), rgba(0, 0, 0, 0.952)),url('../../../assets/home/featured.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
